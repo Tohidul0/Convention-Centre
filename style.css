@@ -3,3 +3,12 @@
     word-wrap: break-word;
     
   }
+
+  .size{
+    width:120px;
+    height: 40px;
+  }
+  .b-size{
+    height: 210px;
+    width: 100%;
+  }
